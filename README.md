@@ -1,6 +1,6 @@
 # SimpleKV: A simple key-value store
 
-SimpleKV is a simple key-value store written in Goland. It is a simple implementation of a key-value store that supports the following operations:
+SimpleKV is a simple key-value store written in Golang. It is a simple implementation of a key-value store that supports the following operations:
 
 - `Put(key, value)`: Set the value of a key.
 - `Get(key)`: Get the value of a key.
